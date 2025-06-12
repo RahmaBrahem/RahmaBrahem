@@ -24,15 +24,15 @@ Currently focusing on test automation with Selenium and Java.
 
 ---
 
-🛠 **Languages & Tools**
+### 🛠 Languages and Tools:
 
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=white)  
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?logo=eclipseide&logoColor=white)
-
----
-
-> "Quality is not an act, it is a habit." – Aristotle
+<p align="left">
+  <img src="https://img.icons8.com/color/40/java-coffee-cup-logo.png" alt="Java" />
+  <img src="https://img.icons8.com/color/40/python.png" alt="Python" />
+  <img src="https://img.icons8.com/color/40/javascript--v1.png" alt="JavaScript" />
+  <img src="https://img.icons8.com/external-flat-juicy-fish/40/external-git-coding-and-development-flat-flat-juicy-fish.png" alt="Git" />
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/external-selenium-a-suite-of-tools-for-automated-web-testing-logo-color-tal-revivo.png" alt="Selenium" />
+  <img src="https://img.icons8.com/color/40/eclipse.png" alt="Eclipse" />
+  <img src="https://img.icons8.com/external-flat-juicy-fish/40/external-cucumber-programming-and-coding-flat-flat-juicy-fish.png" alt="Cucumber" />
+  <img src="https://img.icons8.com/external-outline-juicy-fish/40/external-testng-coding-and-development-outline-outline-juicy-fish.png" alt="TestNG" />
+</p>
