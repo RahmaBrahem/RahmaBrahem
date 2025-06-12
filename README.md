@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi there, I'm Rahma Brahem. Welcome to my profile! 👋
 
-<!--
-**RahmaBrahem/RahmaBrahem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A QA Engineer from Tunisia 🇹🇳
+🎯 Certificated ISTQB Foundation Level v4.0
 
-Here are some ideas to get you started:
+🧠 Empathie, rigueur, esprit d'analyse
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨‍💻 All of my projects are available at
+https://github.com/RahmaBrahem
+💬 Ask me about Selenium Webdriver, Cucumber , TestNG ,POM
+📧 How to reach me: rahma.brahem.94@gmail.com
+📑 Know about my experiences:
+https://www.linkedin.com/in/rahma-brahem/
+🛠 Languages and Tools:
+git java javascript python selenium Eclipse-Dark 
+
+"La qualité, ce n’est pas un acte, c’est une habitude." – Aristote
+
