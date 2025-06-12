@@ -10,7 +10,7 @@ https://github.com/RahmaBrahem
 💬 Ask me about Selenium Webdriver, Cucumber , TestNG ,POM
 📧 How to reach me: rahma.brahem.94@gmail.com
 📑 Know about my experiences:
-https://www.linkedin.com/in/rahma-brahem/
+https://www.linkedin.com/in/rahma-brahem
 🛠 Languages and Tools:
 git java javascript python selenium Eclipse-Dark 
 
