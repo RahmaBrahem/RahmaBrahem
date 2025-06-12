@@ -20,9 +20,7 @@ Currently focusing on test automation with Selenium and Java.
 📧 How to reach me: rahma.brahem.94@gmail.com
 
 📑 Know about my experiences:  
-<a href="https://www.linkedin.com/in/rahma-brahem-0548b1122" target="_blank">
-  <img src="https://img.icons8.com/color/30/000000/linkedin.png" alt="LinkedIn" style="vertical-align:middle;"/>
-</a> <a href="https://www.linkedin.com/in/rahma-brahem-0548b1122" target="_blank">LinkedIn Profile</a>
+[<img src="https://img.icons8.com/color/20/linkedin.png" alt="LinkedIn" />](https://www.linkedin.com/in/rahma-brahem-0548b1122) [LinkedIn Profile](https://www.linkedin.com/in/rahma-brahem-0548b1122)
 
 ---
 
