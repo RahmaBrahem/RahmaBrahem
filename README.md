@@ -14,5 +14,5 @@ https://www.linkedin.com/in/rahma-brahem
 🛠 Languages and Tools:
 git java javascript python selenium Eclipse-Dark 
 
-"La qualité, ce n’est pas un acte, c’est une habitude." – Aristote
+"Quality is not an act, it is a habit." – Aristotle
 
