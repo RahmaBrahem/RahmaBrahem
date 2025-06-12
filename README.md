@@ -20,7 +20,7 @@ Currently focusing on test automation with Selenium and Java.
 📧 How to reach me: rahma.brahem.94@gmail.com
 
 📑 Know about my experiences:  
-[LinkedIn Profile](https://www.linkedin.com/in/rahma-brahem-0548b1122)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahma-brahem-0548b1122)
 
 ---
 
