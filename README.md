@@ -26,13 +26,17 @@ Currently focusing on test automation with Selenium and Java.
 
 ### 🛠 Languages and Tools:
 
-<p align="left">
-  <img src="https://img.icons8.com/color/40/java-coffee-cup-logo.png" alt="Java" />
-  <img src="https://img.icons8.com/color/40/python.png" alt="Python" />
-  <img src="https://img.icons8.com/color/40/javascript--v1.png" alt="JavaScript" />
-  <img src="https://img.icons8.com/external-flat-juicy-fish/40/external-git-coding-and-development-flat-flat-juicy-fish.png" alt="Git" />
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/external-selenium-a-suite-of-tools-for-automated-web-testing-logo-color-tal-revivo.png" alt="Selenium" />
-  <img src="https://img.icons8.com/color/40/eclipse.png" alt="Eclipse" />
-  <img src="https://img.icons8.com/external-flat-juicy-fish/40/external-cucumber-programming-and-coding-flat-flat-juicy-fish.png" alt="Cucumber" />
-  <img src="https://img.icons8.com/external-outline-juicy-fish/40/external-testng-coding-and-development-outline-outline-juicy-fish.png" alt="TestNG" />
-</p>
+[![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+[![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)](https://www.selenium.dev/)
+[![TestNG](https://img.shields.io/badge/-TestNG-F0AD4E?style=for-the-badge&logo=java&logoColor=white)](https://testng.org/)
+[![Cucumber](https://img.shields.io/badge/-Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)](https://cucumber.io/)
+
+[![Maven](https://img.shields.io/badge/-Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
+[![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)](https://www.eclipse.org/)
+
+[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
+[![Xray](https://img.shields.io/badge/-Xray-0052CC?style=for-the-badge&logo=jira&logoColor=white)](https://www.getxray.app/)
