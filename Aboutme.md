@@ -1,6 +1,6 @@
 ## Hi there, I'm Rahma Brahem. Welcome to my profile! 👋
 
-## A **QA Engineer** from Tunisia 🇹🇳  
+## A **QA Engineer** from Tunisia <img src="https://flagcdn.com/16x12/tn.png" alt="Tunisia Flag" width="20"/> 
 🎯 Certified **ISTQB Foundation Level v4.0**
 
 🧠 Empathy, rigor, analytical mindset
@@ -15,7 +15,7 @@ Currently focusing on test automation with Selenium and Java.
 👨‍💻 All of my projects are available at:  
 [https://github.com/RahmaBrahem](https://github.com/RahmaBrahem)
 
-💬 Ask me about Selenium WebDriver, Cucumber, TestNG, POM
+💬 Ask me about Selenium WebDriver, Cucumber, TestNG, POM, Robot Framework
 
 📧 How to reach me: rahma.brahem.94@gmail.com
 
