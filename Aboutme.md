@@ -1,10 +1,17 @@
-## Hi there, I'm Rahma Brahem. Welcome to my profile! 👋
-
 <p align="center">
-  <img src="images/Test.jpg" alt="Test" width="500"/>
+  <img src="https://i.postimg.cc/VkBBzcGt/Testing.avif" alt="Software Testing" width="400"/>
 </p>
 
-## A **QA Engineer** from Tunisia <img src="https://flagcdn.com/16x12/tn.png" alt="Tunisia Flag" width="20"/> 
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" style="vertical-align: middle;"/> 
+  Hi there, I'm Rahma Brahem. Welcome to my profile!
+</h1>
+
+<h2 align="center" style="font-weight: normal;">
+  A <strong>QA Engineer</strong> from Tunisia 
+  <img src="https://flagcdn.com/16x12/tn.png" alt="Tunisia Flag" width="20"/>
+</h2>
+
 🎯 Certified **ISTQB Foundation Level v4.0**
 
 🧠 Empathy, rigor, analytical mindset
